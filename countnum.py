@@ -1,3 +1,3 @@
-x=input()
-y=len(x.split())
-print(y)
+e=input()
+f=len(e.split())
+print(f)
